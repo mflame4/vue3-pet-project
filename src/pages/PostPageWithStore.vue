@@ -129,6 +129,6 @@ export default {
 }
 .observer {
   height: 30px;
-  background: green;
+  background: rgb(0, 98, 128);
 }
 </style>

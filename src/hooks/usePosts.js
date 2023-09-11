@@ -3,7 +3,7 @@ import axios from "axios";
 
 export const posts = ref([]);
 export const page = ref(1);
-export const limit = 10;
+export const limit = 5;
 export const totalPages = ref(0);
 export const isPostsLoading = ref(true);
 export const dialogVisible = ref(false);
