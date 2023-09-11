@@ -1,4 +1,6 @@
-# vue3-practice
+# vue3-pet-project
+
+### [Live Demo of the current project](https://vue3-pet-project.netlify.app/)
 
 ## Project setup
 
